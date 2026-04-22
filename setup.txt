@@ -1,1 +1,1 @@
-It explains the setup steps.
+It mentions the setup steps.
